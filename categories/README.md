@@ -42,3 +42,4 @@ Nice way to present exercises :+1:
 - g(f(x)) * g(f(y)) = (g ⚬ f)(x) * (g ⚬ f)(y) - (4) because of the composition definition.
 - Because of (1), (2), (3), and (4), (g ⚬ f)(x * y) = (g ⚬ f)(x) * (g ⚬ f)(y).
 - Therefore g ⚬ f is a homomorphism, which means the composition definition is closed among homomophisms, and therefore Groups is a category.
+- (For the composition axiom, the same arguments as Sets holds.)
