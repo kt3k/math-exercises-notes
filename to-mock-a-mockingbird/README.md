@@ -30,3 +30,16 @@ Therefore any bird is fond of at least one bird. QED.
 - This means (M ⚬ M)(M ⚬ M) is fond of itself i.e. is egocentric. QED.
 
 The answer section show a more indirect solution using the result of the previous problem.
+
+### 3. Agreeable Bird
+
+- Let A be an agreeable bird.
+- Let f be an any bird.
+- Let C be f ⚬ A.
+- Because A is an agreeable bird, Ax = Cx for some x.
+- Cx = f(Ax) --- by definition of C
+- ... = f(Cx) --- by definition of x
+- This means f is fond of Cx for some x for any bird f. QED.
+
+- M is agreeable because for any B, MB = BB.
+- Therefore 1. is a special case of 3.
