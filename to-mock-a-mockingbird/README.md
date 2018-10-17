@@ -43,3 +43,14 @@ The answer section show a more indirect solution using the result of the previou
 
 - M is agreeable because for any B, MB = BB.
 - Therefore 1. is a special case of 3.
+
+### 4. Agreeable Bird 2
+
+- Let D an arbitrary bird.
+- Let E be D ⚬ B.
+- Because C is agreeable, Cx = (D ⚬ B)(x) for some x. --- (a.)
+- (A ⚬ B)(x) = Cx --- by def of C. --- (b.)
+- (D ⚬ B)(x) = D(Bx) --- by def of composition. --- (c.)
+- Because of (a.), (b.), and (c.), A(B(x)) = D(B(x)).
+- This means A and D agree on B(x) and D is an arbitrary bird.
+- Therefore A is agreeable bird. QED.
