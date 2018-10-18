@@ -54,3 +54,13 @@ The answer section show a more indirect solution using the result of the previou
 - Because of (a.), (b.), and (c.), A(B(x)) = D(B(x)).
 - This means A and D agree on B(x) and D is an arbitrary bird.
 - Therefore A is agreeable bird. QED.
+
+### 5. An Excercise in Composition
+
+- Let E be B ⚬ C.
+- A ⚬ E exists because of the composition law.
+- Let x be an any bird.
+- (A ⚬ E)(x) = A(E(x)) --- by def of composition
+- ... = A((B ⚬ C)(x)) --- by def of E
+- ... = A(B(Cx)) --- by def of composition
+- Therefore A ⚬ E is D. QED.
