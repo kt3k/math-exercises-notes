@@ -83,3 +83,19 @@ Nice way to present exercises :+1:
 - Therefore f^-1(g^-1(U)) is an open set in X because f in a continuous map.
 - This means g ⚬ f is a continuous map and the composition is closed among continous maps.
 - This measn Top forms a category. QED.
+
+### 1.5
+
+#### 1st question
+
+- Let X be a topological space.
+- Let U, V, W in Op(X) such that U ⊆ V and V ⊆ W.
+- Let a: U -> V, b: V -> W, c: U -> W.
+- b ⚬ a equals inevitably c because there is no other choice.
+
+#### 2nd question
+
+- Let U, V, W, X in Op(X) such that U ⊆ V ⊆ W ⊆ X.
+- Let f: U -> V, g: V -> W, h: W -> X, k: U -> X.
+- (h ⚬ g) ⚬ f = k = h ⚬ (g ⚬ f) because there is no other choice.
+
