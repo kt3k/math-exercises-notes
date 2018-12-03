@@ -99,3 +99,9 @@ Nice way to present exercises :+1:
 - Let f: U -> V, g: V -> W, h: W -> X, k: U -> X.
 - (h ⚬ g) ⚬ f = k = h ⚬ (g ⚬ f) because there is no other choice.
 
+### 1.6
+
+#### The inverse is unique
+
+- Let 𝒞 be a category, f: X -> Y be a morphism, g, h is inverse of f.
+- g = g ⚬ id_Y = g ⚬ (f ⚬ h) = (g ⚬ f) ⚬ h = id_X ⚬ h = h. QED.
