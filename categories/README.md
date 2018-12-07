@@ -105,3 +105,11 @@ Nice way to present exercises :+1:
 
 - Let 𝒞 be a category, f: X -> Y be a morphism, g, h is inverse of f.
 - g = g ⚬ id_Y = g ⚬ (f ⚬ h) = (g ⚬ f) ⚬ h = id_X ⚬ h = h. QED.
+
+#### The converse
+
+- Let X = { 0 }, Y = { 0, 1 } in Sets.
+- Let f: X -> Y, f(0) = 0 and g: Y -> X, g(0) = g(1) = 0.
+- Then g ⚬ f = id_X and this is invertible by itself.
+- However f isn't invertible and g either isn't invertible.
+- Therefore the converse is not true.
