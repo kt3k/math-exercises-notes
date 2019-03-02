@@ -21,3 +21,9 @@ The cut elimination theorem on LK and LJ is called Gentzen's Hauptsatz. It is la
 - Sequent calculi (ie LK and LJ) are also called Gentzen's systems.
 
 (Hilbert's system seems a little different from sequent calculi)
+
+- Natural deduction
+  - Judgement is A0, ..., An |- B
+- Sequent Calculus
+  - Sequent is A0, ..., An |- B0, ..., Bn
+
