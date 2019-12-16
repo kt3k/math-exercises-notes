@@ -31,3 +31,15 @@ From 5, the identity element is unique because if i are j are identity elements,
 When 1 = 0, then x = 1x = 0x = (y - y)x = yx - yx = 0, i.e. the all elements in the ring is 0. In that case, that ring is called zero ring.
 
 Note: (A, +, `*`) is an commutative ring with an identity when A is an abelian group with respect to addition, A is a commutative monoid with respect to multipication, and multiplication is distributive over addition.
+
+Let A and B be rings and f be a map of A -> B, then f is a ring homomorphism if:
+
+1. ∀x,y∈A(f(x+y)=f(x)+f(y))
+2. ∀x,y∈A(f(xy)=f(x)f(y))
+3. f(1)=1
+
+In other words, f respects addition and multiplication of A and B.
+
+A subset S of a ring A is subring when addition and multiplication of elements of S is closed in S and it has 1.
+
+If f: A -> B, g: B -> C are ring homomorphisms, then g⚬f is a ring homomorphism.
