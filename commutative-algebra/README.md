@@ -43,3 +43,7 @@ In other words, f respects addition and multiplication of A and B.
 A subset S of a ring A is subring when addition and multiplication of elements of S is closed in S and it has 1.
 
 If f: A -> B, g: B -> C are ring homomorphisms, then g⚬f is a ring homomorphism.
+
+## Ideals. Quotient Rings
+
+An ideal 𝔞 of a ring A is an additive subgroup of A and A𝔞⊆𝔞 i.e. ∀x∈A,y∈𝔞(xy∈𝔞).
