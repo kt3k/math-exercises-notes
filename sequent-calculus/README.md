@@ -28,3 +28,4 @@ The cut elimination theorem on LK and LJ is called Gentzen's Hauptsatz. It is la
   - Sequent is a form, A0, ..., An |- B0, ..., Bn
 
 (Gentzen's system is more similar to what mathematicians do to proove theorems in practice.)
+
