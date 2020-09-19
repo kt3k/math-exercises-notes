@@ -47,3 +47,5 @@ If f: A -> B, g: B -> C are ring homomorphisms, then g⚬f is a ring homomorphis
 ## Ideals. Quotient Rings
 
 An ideal 𝔞 of a ring A is an additive subgroup of A and A𝔞⊆𝔞 i.e. ∀x∈A,y∈𝔞(xy∈𝔞).
+
+Prosition 1.1. There is a one-to-one order-preserving correspondence between the ideal 𝔟 of A which contains 𝔞, and the ideal 𝔟' of A/𝔞, given by 𝔟 = φ^-1(𝔟').
